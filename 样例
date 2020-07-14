@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<credit>
+    <datatype name="基本信息" en_name="BASE_ENTINFO">
+        <data>
+            <item label="企业名称" name="NAME"><![CDATA[郑州宇通客车股份有限公司]]></item>
+            <item label="统一社会信用代码" name="CRED_CODE"><![CDATA[91410000170001401D]]></item>
+            <item label="营业执照注册号" name="REG_CODE"><![CDATA[410000100025322]]></item>
+            <item label="组织机构代码" name="ORG_CODE"><![CDATA[170001401]]></item>
+            <item label="税务登记码" name="TAX_CODE"/>
+            <item label="法定代表人" name="FR_NAME"><![CDATA[汤玉祥]]></item>
+            <item label="住所" name="REG_ADDRESS"><![CDATA[郑州市管城区宇通路]]></item>
+            <item label="成立日期" name="REG_DATE"><![CDATA[1997-01-08]]></item>
+            <item label="登记状态" name="REG_STATE"><![CDATA[存续（在营、开业、在册）]]></item>
+            <item label="类型" name="SUBJECT_TYPE"><![CDATA[企业]]></item>
+            <item label="黑名单数量" name="BLACKNUMBER">0</item>
+            <item label="红名单数量" name="REDNUMBER">6</item>
+            <item label="注册资本（万）" name="REGCAP"><![CDATA[221394.0]]></item>
+            <item label="经营范围" name="OPSCOPE">
+                <![CDATA[经营本企业自产产品及相关技术的出口业务；经营本企业生产、科研所需的原辅材料、机械设备、仪器仪表、零配件及相关技术的进口业务；经营本企业的进料加工和“三来一补”业务；改装汽车、挂车、客车及配件附件、客车底盘、信息安全设备、智能车载设备的设计、生产与销售；机械加工、汽车整车及零部件的技术开发、转让、咨询与服务；通用仪器仪表制造与销售；质检技术服务；摩托车、旧车及配件、机电产品、五金交电、百货、互联网汽车、化工产品（不含易燃易爆化学危险品）、润滑油的销售；汽车维修（限分支机构凭证经营）；住宿、饮食服务（限其分支机构凭证经营）；普通货运；仓储（除可燃物资）；租赁业；旅游服务；公路旅客运输；县际非定线旅游、市际非定线旅游；软件和信息技术，互联网平台、安全、数据、信息服务；第二类增值电信业务中的信息服务业务（不含固定网电话信息服务和互联网信息服务）；经营第Ⅱ类、第Ⅲ类医疗器械（详见许可证）；保险兼业代理；对外承包工程业务；工程（建设及）管理服务；新能源配套基础设施的设计咨询、建设及运营维护；通讯设备、警用装备、检测设备的销售；计算机信息系统集成。涉及许可经营项目，应取得相关部门许可后方可经营]]></item>
+        </data>
+    </datatype>
+    <datatype name="优良信息">
+        <unit name="国家公共信用平台" id="856DD685EFC5450D9508C719EFED2498">
+            <table name="法人红名单" en_name="xyzg_fr_hongmd" id="dxdm,A级纳税人,海关高级认证企业," tag="红名单">
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[A级纳税人]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[91410000170001401D]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[国家税务总局]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[]]></item>
+                </row>
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[A级纳税人]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[91410000170001401D]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[国家税务总局]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[]]></item>
+                </row>
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[A级纳税人]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[91410000170001401D（410104170001401）]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[国家税务总局]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[]]></item>
+                </row>
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[A级纳税人]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[410104170001401]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[国家税务总局]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[]]></item>
+                </row>
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[A级纳税人]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[91410000170001401D]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[国家税务总局]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[]]></item>
+                </row>
+                <row id="">
+                    <item label="有效期至" name="yxqz"><![CDATA[]]></item>
+                    <item label="法人名称" name="frmc"><![CDATA[郑州宇通客车股份有限公司]]></item>
+                    <item label="法人类别" name="frlb"><![CDATA[]]></item>
+                    <item label="对象代码" name="dxdm"><![CDATA[海关高级认证企业]]></item>
+                    <item label="纳税人识别号" name="nsrsbh"><![CDATA[]]></item>
+                    <item label="列入部门" name="lrbm"><![CDATA[海关总署]]></item>
+                    <item label="列入原因" name="lryy"><![CDATA[海关高级认证企业]]></item>
+                    <item label="工商注册号" name="qyzch"><![CDATA[]]></item>
+                    <item label="起始时间" name="qssj"><![CDATA[2014-08-06]]></item>
+                    <item label="统一信用社会代码" name="tyshxydm"><![CDATA[]]></item>
+                    <item label="组织机构代码" name="zzjgdm"><![CDATA[170001401]]></item>
+                </row>
+            </table>
+        </unit>
+    </datatype>
+    <datatype name="负面信息"/>
+    <datatype name="登记注册"/>
+    <datatype name="许可认证"/>
+    <datatype name="其他信息"/>
+</credit>
