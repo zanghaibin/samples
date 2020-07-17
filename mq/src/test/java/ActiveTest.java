@@ -47,7 +47,6 @@ public class ActiveTest {
         }
 
         while (true) {}
-
     }
 
     @Test
