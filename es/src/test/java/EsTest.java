@@ -1,5 +1,7 @@
 import b.h.z.Client;
+import b.h.z.api.GetApi;
 import b.h.z.api.IndexApi;
+import org.elasticsearch.action.get.GetResponse;
 import org.elasticsearch.action.index.IndexResponse;
 import org.junit.Assert;
 import org.junit.Test;
@@ -21,5 +23,11 @@ public class EsTest {
     public void indexTest() throws IOException {
         IndexResponse response = IndexApi.execute();
         Assert.assertNotNull(response.getId());
+    }
+
+    @Test
+    public void getTest() throws IOException {
+        GetResponse response = GetApi.execute();
+        Assert.assertNotNull(response.getFields());
     }
 }
