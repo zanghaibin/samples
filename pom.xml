@@ -12,6 +12,7 @@
         <module>mq</module>
         <module>esper</module>
         <module>es</module>
+        <module>neo4j</module>
     </modules>
 
     <properties>
