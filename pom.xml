@@ -13,6 +13,7 @@
         <module>esper</module>
         <module>es</module>
         <module>neo4j</module>
+        <module>redis</module>
     </modules>
 
     <properties>
