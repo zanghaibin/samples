@@ -9,6 +9,8 @@
         <module name="es" />
         <module name="esper" />
         <module name="mq" />
+        <module name="neo4j" />
+        <module name="redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
